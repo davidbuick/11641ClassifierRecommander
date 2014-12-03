@@ -1,0 +1,4 @@
+TRAINFILE = training_set.csv
+TESTFILE = test-all.csv
+VALIDATIONFILE = validation.csv
+OUTPUTFILE = predictions.txt
